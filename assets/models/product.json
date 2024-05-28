@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_code": null,
+            "photo": "assets/img_product/uhJHFIVyvyDBgywZAjvol1zAAfEWBbHQYp6PL3yE.jpg",
+            "name": "Singa",
+            "selling_price": 14000,
+            "purchase_price": null,
+            "stock": 6,
+            "deleted_at": null,
+            "created_at": "2024-05-27T12:30:38.000000Z",
+            "updated_at": "2024-05-27T12:31:05.000000Z"
+        },
+        {
+            "id": 2,
+            "product_code": null,
+            "photo": "assets/img_product/mGsBbeHARjknko4TMY3kaWx7o3gNkS1VXHGcFK6K.jpg",
+            "name": "Buaya",
+            "selling_price": 15000,
+            "purchase_price": null,
+            "stock": 5,
+            "deleted_at": null,
+            "created_at": "2024-05-27T12:35:13.000000Z",
+            "updated_at": "2024-05-27T12:35:13.000000Z"
+        }
+    ]
+}
