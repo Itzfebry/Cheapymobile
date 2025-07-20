@@ -1,16 +1,31 @@
-# cheapy
+# 🪑 CheapyMobile
 
-A new Flutter project.
+**CheapyMobile** adalah aplikasi frontend e-commerce furniture berbasis mobile yang dikembangkan sebagai bagian dari studi kasus nyata: **Cheapy**, sebuah mitra usaha inovatif di bidang penjualan kebutuhan furniture.
 
-## Getting Started
+> ⚠️ Project ini hanya mencakup _tampilan desain_ dan _frontend UI_. Belum terintegrasi dengan backend atau sistem transaksi.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎨 Tampilan antarmuka modern & responsif
+- 🔍 Eksplorasi katalog produk furniture
+- 🛒 UI keranjang belanja dan wishlist
+- 📄 Tampilan detail produk
+- 👤 Halaman profil pengguna
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Teknologi
+
+- **Framework**: Flutter
+- **Bahasa**: Dart
+- **Arsitektur**: (Opsional) GetX (MVC)
+
+---
+
+## 🚧 Status
+
+```diff
++ Frontend UI: Selesai (Mockup interaktif)
+
